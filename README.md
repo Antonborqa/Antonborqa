@@ -19,3 +19,5 @@ String3<br>
 String4<br>
 String5</p>
 </div>
+
+<hr size="10">
