@@ -4,6 +4,7 @@
 
 <div align="center">
 <img alt="Static Badge" src="https://img.shields.io/badge/%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81_%D0%BF%D0%BE%D1%87%D1%82%D0%B0">
+![Static Badge](https://img.shields.io/badge/%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81)
 <a href ="https://t.me/Podval5575">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
