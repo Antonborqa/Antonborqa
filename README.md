@@ -37,14 +37,14 @@ String5</p>
 
 <div id="techstack">
 <h3>⚡Технологии которыми пользуюсь/пользовался</h3>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white">
-<img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white">
-<img src="https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white&style=for-the-badge">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-<img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=sql&logoColor=white">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge">
+<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge">
+<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge">
+<img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge">
+<img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge">
+<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logoColor=black">
+<img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logoColor=white">
 <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&%2B%2B&logoColor=black">
 <img src="https://img.shields.io/badge/TestIT-3875C5.svg?style=for-the-badge&%2B%2B&logoColor=black">
 </div>
