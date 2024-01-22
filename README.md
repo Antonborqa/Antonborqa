@@ -13,9 +13,9 @@
 
 <div id="About me">
 <h3>Обо мне:</h3>
-<p>String1</p>
-<p>String2</p>
-<p>String3</p>
-<p>String4</p>
-<p>String5</p>
+<p>String1<br>
+String2<br>
+String3<br>
+String4<br>
+String5</p>
 </div>
