@@ -29,7 +29,7 @@ String5</p>
 
 <div id="examples">
 <h3>💼Мое портфолио</h3>
-<p> <a href="https://github.com/Antonborqa/Bug-reports"><Баг-репорты</a> <br>
+<p> <a href="https://github.com/Antonborqa/Bug-reports">Баг-репорты</a> <br>
 String2<br>
 String3<br>
 String4<br>
