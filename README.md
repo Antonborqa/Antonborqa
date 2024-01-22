@@ -45,5 +45,5 @@ String5</p>
 <img src="https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white&style=for-the-badge">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=sql&logoColor=white">
-<img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&%2B%2B&logoColor=black">
+<img src="https://img.shields.io/badge/Notepad++-90E.svg?style=for-the-badge&%2B%2B&logoColor=black">
 </div>
