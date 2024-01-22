@@ -49,5 +49,5 @@ String5</p>
 <img src="https://img.shields.io/badge/TestIT-3875C5.svg?style=for-the-badge&%2B%2B&logoColor=black">
 <img src="https://img.shields.io/badge/DevTools-4383f2.svg?style=for-the-badge&%2B%2B&logoColor=black">
 <img src="https://img.shields.io/badge/YouTrack-7c2991.svg?style=for-the-badge&%2B%2B&logoColor=black">
-<img src="https://img.shields.io/badge/Hyper-V-408bdf.svg?style=for-the-badge&%2B%2B&logoColor=black">
+<img src="https://img.shields.io/badge/Hyper&ndashV-408bdf.svg?style=for-the-badge&%2B%2B&logoColor=black">
 </div>
