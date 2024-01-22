@@ -1,6 +1,10 @@
-<head>
-<link rel="stylesheet" href="style.css">
-</head>
+<style>
+12 {
+	
+	font-size: 12px;
+	
+}
+</style>
 <div id="content">
 
 <div id="header" align="center">
