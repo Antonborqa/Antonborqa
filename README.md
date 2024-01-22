@@ -23,3 +23,14 @@ String5</p>
 </div>
 
 <hr size="10">
+
+<div id="examples">
+<h3>💼Мое портфолио</h3>
+<p>String1<br>
+String2<br>
+String3<br>
+String4<br>
+String5</p>
+</div>
+
+<hr size="10">
