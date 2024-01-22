@@ -1,3 +1,4 @@
+<head>
 <style>
 12 {
 	
@@ -5,6 +6,7 @@
 	
 }
 </style>
+</head>
 <div id="content">
 
 <div id="header" align="center">
