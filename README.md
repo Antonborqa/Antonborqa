@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<h1>👋Привет, меня зовут Антон!</h1>
+<h1><img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/gifs/wave.gif">👋Привет, меня зовут Антон!</h1>
 </div> 
 
 <div align="center">
