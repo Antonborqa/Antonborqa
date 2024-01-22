@@ -47,4 +47,5 @@ String5</p>
 <img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logoColor=white">
 <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&%2B%2B&logoColor=black">
 <img src="https://img.shields.io/badge/TestIT-3875C5.svg?style=for-the-badge&%2B%2B&logoColor=black">
+<img src="https://img.shields.io/badge/DevTools-4383f2.svg?style=for-the-badge&%2B%2B&logoColor=black">
 </div>
