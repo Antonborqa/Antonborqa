@@ -14,7 +14,7 @@
 <hr size="10">
 
 <div id="About me">
-<h3>Обо мне:</h3>
+<h3>🇶🇦Обо мне:</h3>
 <p>String1<br>
 String2<br>
 String3<br>
