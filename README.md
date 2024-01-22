@@ -1,12 +1,3 @@
-<svg>
-<foreignObject width="100%" height="100%">
-<style>
-12 {
-	
-	font-size: 12px;
-	
-}
-</style>
 <div id="content">
 
 <div id="header" align="center">
@@ -18,11 +9,6 @@
 </div>
 
 <div>
-
-
-
 </div>
 
 </div>
-</svg>
-</foreignObject>
