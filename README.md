@@ -1,11 +1,7 @@
 <div id="content">
 
 <div id="header" align="center">
-<h1>
-👋Привет, меня зовут Антон!<br>
-<p style="font-size: 12px;">Я начинающий тестировщик</p>
-</h1>
-<h3></h3>
+<img src="https://disk.yandex.ru/client/disk?idApp=client&dialog=slider&idDialog=%2Fdisk%2Funtitled.png">
 </div>
 
 <div>
