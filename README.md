@@ -37,4 +37,9 @@ String5</p>
 
 <div id="techstack">
 <h3>⚡Технологии которыми пользуюсь/пользовался</h3>
+<p>String1<br>
+String2<br>
+String3<br>
+String4<br>
+String5</p>
 </div>
