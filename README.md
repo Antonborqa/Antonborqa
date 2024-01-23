@@ -53,4 +53,6 @@ String5</p>
 <img src="https://img.shields.io/badge/DevTools-4383f2.svg?style=for-the-badge&%2B%2B&logoColor=black"title="DevTools">
 <img src="https://img.shields.io/badge/YouTrack-7c2991.svg?style=for-the-badge&%2B%2B&logoColor=black"title="YouTrack">
 <img src="https://img.shields.io/badge/Hyper&ndash;V-408bdf.svg?style=for-the-badge&%2B%2B&logoColor=black"title="Hyper&ndash;V">
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge"title="Git">
+<img src="	https://img.shields.io/badge/GitHub-100000?style=for-the-badge"title="Git">
 </div>
